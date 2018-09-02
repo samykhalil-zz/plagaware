@@ -1,0 +1,20 @@
+.plagaware_good {
+    color: white;
+    background-color: #16dd16;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+.plagaware_warning {
+    color: white;
+    background-color: #ffbd26;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+.plagaware_bad {
+    color: white;
+    background-color: #fb0000;
+    padding: 2px;
+    border-radius: 5px;
+}
